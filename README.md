@@ -10,7 +10,7 @@
 
   * 🔭 I am Currently working as **Voice-Enabled AI Personal Finance Tracker Project**
 
-  - 🌱 I’m currently Learning Fuzzy System😎.
+  - 🌱 I’m currently Learning Fuzzy Logic😎.
 
   - 🤖 Ask me about **Machine learning, computer vision, or AI-powered personal finance systems.**
   
