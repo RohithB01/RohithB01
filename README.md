@@ -4,7 +4,7 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
 
 
-  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+  ## <h3 align="center">Shaping Tomorrow with Artificial Intelligence</h3>
 
 ---
 
