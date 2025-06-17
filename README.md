@@ -1,9 +1,9 @@
 - ### Hi there, I'm Rohith B👋
-  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rohithb2001/)
+  ![](https://komarev.com/ghpvc/?username=rohithb01&color=green)  
+  [![Website](https://img.shields.io/website?label=rohithb20001&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rohithb2001/)
 
 
-  ## Shaping Tomorrow with Artificial Intelligence [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+  ## Shaping Tomorrow with Artificial Intelligence [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rohithb2001/))
 
 ---
 
@@ -34,8 +34,85 @@
 
    ## ⚡ Technologies I use 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+<table align="center">
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65px" />
+        <br /> AWS
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="65px" />
+        <br /> C#
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65px" />
+        <br /> CSS3
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="65px" />
+        <br /> Docker
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65px" />
+        <br /> Figma
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="65px" />
+        <br /> Flask
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65px" />
+        <br /> HTML5
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="65px" />
+        <br /> MATLAB
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65px" />
+        <br /> MySQL
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65px" />
+        <br /> OpenCV
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="65px" />
+        <br /> Pandas
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65px" />
+        <br /> Postman
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65px" />
+        <br /> Python
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="65px" />
+        <br /> PyTorch
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65px" />
+        <br /> Scikit-learn
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65px" />
+        <br /> Seaborn
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="65px" />
+        <br /> TensorFlow
+      </td>
+    </tr>
+  </table>
+</div>
+
 
  - Laptop (I am using)
  -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
