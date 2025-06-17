@@ -1,10 +1,9 @@
 - ### Hi there, I'm Rohith B👋
   ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
+  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rohithb2001/)
 
 
-  ## <h3 align="center">Shaping Tomorrow with Artificial Intelligence</h3>
+  ## Shaping Tomorrow with Artificial Intelligence [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
 
 ---
 
@@ -21,9 +20,9 @@
   - ⚡ Fun fact: I talk to AI models more than I talk to people on weekends.
 
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithb01&show_icons=true&theme=radical) | [![Rohith B's Stri](https://streak-stats.demolab.com?user=rohithb01&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithb01&show_icons=true&theme=radical) | [![Rohith B's Stri](https://streak-stats.demolab.com?user=rohithb01&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithb01&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
 
 
