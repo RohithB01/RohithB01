@@ -3,7 +3,8 @@
   [![Website](https://img.shields.io/website?label=rohithb20001&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rohithb2001/)
 
 
-  ## Shaping Tomorrow with Artificial Intelligence [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rohithb2001/))
+  ## Shaping Tomorrow with Artificial Intelligence [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithb2001/)
+
 
 ---
 
@@ -125,9 +126,6 @@
 **SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
 **RAM**|[Hynix HMAA2GS6AJR8N-XN 1x08GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
 **MBD**|[Realme](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
-
-### Important Repository
-
 
 ---
 
