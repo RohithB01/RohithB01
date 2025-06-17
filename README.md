@@ -114,6 +114,14 @@
   </table>
 </div>
 
+<div align="center">
+  <h1>Oh no, a code-crunching snake on my commit trail!</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake.svg">
+    <img alt="github-snake" src="assets/github-snake.svg">
+  </picture>
+</div>
+
 
  - Laptop (I am using)
  -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
