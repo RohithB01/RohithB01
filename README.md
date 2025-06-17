@@ -1,32 +1,90 @@
-<h1 align="center">Hi 👋, I'm Rohith B</h1>
-<h3 align="center">Shaping Tomorrow with Artificial Intelligence</h3>
+- ### Hi there, I'm Rohith B👋
+  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
+  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithb01&label=Profile%20views&color=0e75b6&style=flat" alt="rohithb01" /> </p>
 
-- 🛠️ I’m currently working on **Voice-Enabled AI Personal Finance Tracker**
+  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
 
-- 🤖 Ask me about **Machine learning, computer vision, or AI-powered personal finance systems.**
+---
 
-- 📬 How to reach me **rohitbrp01@gmail.com**
+  * 🔭 I am Currently working as **Voice-Enabled AI Personal Finance Tracker Project**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17--hKr4a7sPoU5g6lbP0p1jNrLVKoyqX/view?usp=sharing](https://drive.google.com/file/d/17--hKr4a7sPoU5g6lbP0p1jNrLVKoyqX/view?usp=sharing)
+  - 🌱 I’m currently Learning Fuzzy System😎.
 
-- ⚡ Fun fact **I talk to AI models more than I talk to people on weekends.**
+  - 🤖 Ask me about **Machine learning, computer vision, or AI-powered personal finance systems.**
+  
+  - 📬 How to reach me **rohitbrp01@gmail.com**
+  
+  - 🥅 2025 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohith b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith b" height="30" width="40" /></a>
-<a href="https://kaggle.com/rohithbrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohithbrp" height="30" width="40" /></a>
-<a href="https://instagram.com/rohiithb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohiithb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohitbrp01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohitbrp01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohithb01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohithb01" height="30" width="40" /></a>
-</p>
+  - ⚡ Fun fact: I talk to AI models more than I talk to people on weekends.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithb01&show_icons=true&theme=radical) | [![Rohith B's Stri](https://streak-stats.demolab.com?user=rohithb01&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithb01&show_icons=true&locale=en&layout=compact" alt="rohithb01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithb01&show_icons=true&locale=en" alt="rohithb01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithb01&" alt="rohithb01" /></p>
+[![rohithb01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohithb01&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/rohithb01/github-readme-activity-graph)
+
+
+
+
+
+   ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
+
+ - Laptop (I am using)
+ -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
+
+||Model|Bench
+:----|:----|:----|
+**CPU**|[Intel Core i5-11870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)|77.1%
+**GPU**|[Intel evo Graphics](https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics)|4.8%
+**GPU**|[Nvidia GTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
+**SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
+**RAM**|[Hynix HMAA2GS6AJR8N-XN 1x08GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
+**MBD**|[Realme](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
+
+### Important Repository
+
+
+---
+
+***Thanks for visit my profile.***
