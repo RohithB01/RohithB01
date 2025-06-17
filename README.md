@@ -115,7 +115,7 @@
 </div>
 
 <div align="center">
-  <h1>🐍 Oh no, a code-crunching snake on my commit trail!</h1>
+  <h1>👨‍💻 A wild snake appears—devouring my commit graph!</h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;" />
