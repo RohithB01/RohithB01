@@ -42,10 +42,6 @@
         <br /> CSS3
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="65px" />
-        <br /> Docker
-      </td>
-      <td align="center" width="140" height="112.43">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65px" />
         <br /> Figma
       </td>
