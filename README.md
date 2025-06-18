@@ -38,9 +38,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65px" />
         <br /> AWS
       </td>
-      <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="65px" />
-        <br /> C#
       </td>
       <td align="center" width="140" height="112.43">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65px" />
