@@ -8,7 +8,7 @@
 
 ---
 
-  * 🔭 I am Currently working as **Voice-Enabled AI Personal Finance Tracker Project**
+  * 🔭 I am Currently working in **Voice-Enabled AI Personal Finance Tracker Project**
 
   - 🌱 I’m currently Learning Fuzzy Logic😎.
   
