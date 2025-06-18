@@ -19,7 +19,7 @@
   - ⚡ Fun fact: I talk to AI models more than I talk to people on weekends.
 
 ---
-| ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithb01&show_icons=true&theme=radical) | [![Rohith B's Stri](https://streak-stats.demolab.com?user=rohithb01&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithb01&show_icons=true&theme=radical) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithb01&layout=compact&&show_icons=true&theme=radical)](https://github.com/rohithb01/github-readme-stats) |                                                              |
 
