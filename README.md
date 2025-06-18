@@ -11,8 +11,6 @@
   * 🔭 I am Currently working as **Voice-Enabled AI Personal Finance Tracker Project**
 
   - 🌱 I’m currently Learning Fuzzy Logic😎.
-
-  - 🤖 Ask me about **Machine learning, computer vision, or AI-powered personal finance systems.**
   
   - 📬 How to reach me **rohitbrp01@gmail.com**
   
