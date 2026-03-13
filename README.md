@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-rohithb2001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:rohitbrp01@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#691b0601001d0b1b195958290e04080005470a0604">
     <img src="https://img.shields.io/badge/Email-rohitbrp01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -34,7 +34,7 @@
 - 🔭 Currently working on a **Voice-Enabled AI Personal Finance Tracker**
 - 🌱 Currently learning **Fuzzy Logic** and **Deep Learning**
 - 🌐 Portfolio: **[rohith-portfolio-henna.vercel.app](https://rohith-portfolio-henna.vercel.app/)**
-- 📬 Reach me at: **rohitbrp01@gmail.com**
+- 📬 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="087a6760617c6a7a783839486f65696164266b6765">[email&#160;protected]</a>**
 - ⚡ **Fun Fact**: I talk to AI models more than I talk to people on weekends 🤖
 
 ---
@@ -83,10 +83,10 @@
     <img src="https://img.shields.io/badge/GenAI%20Mastery-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/ML%20Foundations-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <a href="https://courses.cognitiveclass.ai/certificates/PY0101EN" target="_blank">
+  <a href="https://courses.cognitiveclass.ai/certificates/bcd21022ace94342abe0f6ac96a748b9" target="_blank">
     <img src="https://img.shields.io/badge/Python%20101-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
   </a>
-  <a href="https://courses.cognitiveclass.ai/certificates/DB0101EN" target="_blank">
+  <a href="https://courses.cognitiveclass.ai/certificates/4b7f25cdf00e412ea2b1576eb0678249" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20%26%20Relational%20DBs-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
   </a>
 </p>
@@ -135,10 +135,4 @@
   <h2>👨‍💻 A wild snake appears—devouring my commit graph!</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-
----
-
-<p align="center"><b>✨ Thanks for visiting! Feel free to connect — I'm always open to exciting ML/AI opportunities! 🚀</b></p>
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; height: aut
