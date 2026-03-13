@@ -3,22 +3,26 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohithb01&color=green" alt="Profile views" />
   <br />
+  <a href="https://rohith-portfolio-henna.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rohith--portfolio-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rohithb2001/">
-    <img src="https://img.shields.io/website?label=rohithb20001&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-rohithb2001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Shaping Tomorrow with Artificial Intelligence  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithb2001/)
+## 🚀 Shaping Tomorrow with Artificial Intelligence
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on a **Voice-Enabled AI Personal Finance Tracker Project**
-- 🌱 I’m currently learning **Fuzzy Logic** 😎
+- 🔭 I'm currently working on a **Voice-Enabled AI Personal Finance Tracker Project**
+- 🌱 I'm currently learning **Fuzzy Logic** 😎
+- 🌐 Check out my portfolio: **[rohith-portfolio-henna.vercel.app](https://rohith-portfolio-henna.vercel.app/)**
 - 📬 Reach me at: **rohitbrp01@gmail.com**
 - 🥅 **2025 Goals**: Dive deeper into research in **Computer Vision**, **Deep Learning**, **NLP**, **Time Series Analysis**, **Audio Deep Learning**, and **Satellite Image Segmentation**
 - ⚡ **Fun Fact**: I talk to AI models more than I talk to people on weekends 🤖
