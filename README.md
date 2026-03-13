@@ -76,10 +76,19 @@
 <p>
   <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-AI--102-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Data%20Scientist-DP--100-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML%20with%20TensorFlow-Google%20Cloud-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI%20Mastery-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
+  <a href="https://www.udemy.com/certificate/UC-efc7397d-6a52-436d-b1da-47877ec54fbf/" target="_blank">
+    <img src="https://img.shields.io/badge/ML%20with%20TensorFlow-Google%20Cloud-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-fc0889bb-dc4d-4ff4-b7e9-548713d0bd3e/" target="_blank">
+    <img src="https://img.shields.io/badge/GenAI%20Mastery-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/ML%20Foundations-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20101-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <a href="https://courses.cognitiveclass.ai/certificates/PY0101EN" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20101-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="https://courses.cognitiveclass.ai/certificates/DB0101EN" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20%26%20Relational%20DBs-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
 </p>
 
 ---
